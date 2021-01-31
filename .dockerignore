@@ -1,0 +1,7 @@
+.git
+.gitattributes
+.gitignore
+*.md
+.env
+Dockerfile
+App/Config/config.php
